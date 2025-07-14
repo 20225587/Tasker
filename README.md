@@ -42,7 +42,7 @@ A comprehensive task management system built with PHP, MySQL, and vanilla JavaSc
 
 1. **Database Setup**
    ```bash
-   mysql -u root -p < sql/dump.sql
+   mysql -u root -p < sql/task.sql
    ```
 
 2. **Configuration**
